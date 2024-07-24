@@ -9,3 +9,4 @@ If you want to download it then just click on Omnifood-Desktop.rar file
 CSS folder : contains two css file one for general rules for the css in the file and another one for the Main css of the project.
 Img folder : contains the Images for the projects.
 Index file : It's main HTML file.
+content.md : contains the description about the Omnifood projects.

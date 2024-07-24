@@ -1,7 +1,7 @@
 `How To view and Download`
 
-If you want to see my project you just have to open index.html
-If you want to download it then just click on Omnifood-Desktop.rar file
+If you want to download it then just click on code and click on download ZIP.
+If you want to see my project you just have to open index.html and that's all
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
